@@ -42,4 +42,4 @@ This dashboard can be used by sales managers or team leads to:
 ### 🚧 *Still in progress*: Planning to add filtering by region and category in the next version.
 
 ### Screenshots/Demos
-Example: [Dashboard Preview](
+Example: [Dashboard Preview](https://github.com/Shivam3408/Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
